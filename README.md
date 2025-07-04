@@ -684,7 +684,7 @@ Open the bloody `output.json` file with `notepad.exe`
 then you `CTRL+F` -> "attachments", and you'll notice sussy wussy `.zip`
 files or maybe `.pdf` files, which may contain sussy wussy `URLs`.
 
-Let's say you find an malicious `system_update.zip`.
+Let's say you find a malicious `system_update.zip`.
 Go to the User's `Downloads` folder, it might be there.
 Unzip it, analyse it with `PowerShell`, it might have an `base64` encoded URL.
 Use cyberChef for that.
